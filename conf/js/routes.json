@@ -1,0 +1,8 @@
+{
+    "about": {
+        "app": "about-app"
+    },
+    "some/other/route": {
+        "app": "other-app"
+    }
+}
